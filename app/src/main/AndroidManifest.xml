@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ScrollingActivity">
         <activity
+            android:name=".DetailActivity"
+            android:exported="true"
+            android:label="@string/title_activity_detail"
+            android:theme="@style/Theme.ScrollingActivity.NoActionBar" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
