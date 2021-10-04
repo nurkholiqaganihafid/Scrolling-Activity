@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/ProjectAndroidStudio/Belajar/Scrolling-Activity/app/src/main/res/layout-w1240dp/content_scrolling.xml" value="0.16331994645247658" />
+        <entry key="..\:/ProjectAndroidStudio/Belajar/Scrolling-Activity/app/src/main/res/layout/activity_detail.xml" value="0.264" />
         <entry key="..\:/ProjectAndroidStudio/Belajar/Scrolling-Activity/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProjectAndroidStudio/Belajar/Scrolling-Activity/app/src/main/res/layout/content_scrolling.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
